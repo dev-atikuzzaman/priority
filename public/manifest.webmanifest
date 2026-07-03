@@ -1,1 +1,10 @@
-Ok
+{
+  "name": "নিজের হিসাব",
+  "short_name": "হিসাব",
+  "description": "প্রায়োরিটি, খরচ ও ধার-দেনা ট্র্যাকার",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#14181f",
+  "theme_color": "#14181f",
+  "icons": []
+}
